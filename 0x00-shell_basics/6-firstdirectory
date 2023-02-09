@@ -1,2 +1,2 @@
 #!/bin/bash
-/0-shell_basic/6-firstdirectory/mkdir/tmp/my_first_directory
+mkdir/0-shell_basics/tmp/my_first_directory/:6-firstdirectory
