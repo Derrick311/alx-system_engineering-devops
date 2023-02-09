@@ -1,1 +1,1 @@
-A script that prints the abosolute path name ofthe current working directory.
+Display the contents list of your current directory.
