@@ -1,0 +1,14 @@
+kjoiu
+total 40
+drwxr-xr-x 2 root root 192 Feb 14 03:38 .
+drwxr-xr-x 6 root root 121 Feb 13 05:39 ..
+-rwxr--r-- 1 root root  35 Feb 13 06:27 0-hello_world
+-rwxr--r-- 1 root root  29 Feb 14 00:05 1-confused_smiley
+-rwxr--r-- 1 root root  28 Feb 14 00:10 2-hellofile
+-rwxr--r-- 1 root root  39 Feb 14 00:28 3-twofiles
+-rwxr--r-- 1 root root  29 Feb 14 00:50 4-lastlines
+-rwxr--r-- 1 root root  29 Feb 14 00:55 5-firstlines
+-rwxr--r-- 1 root root  38 Feb 14 02:06 6-third_line
+-rwxr--r-- 1 root root  78 Feb 14 02:58 7-file
+-rw-r--r-- 1 root root   6 Feb 14 03:38 ANGEL
+-rw-r--r-- 1 root root 131 Feb 14 02:59 README.md
