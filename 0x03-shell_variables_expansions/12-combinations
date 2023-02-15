@@ -1,0 +1,2 @@
+#!/bin/bash
+echo {a..z}{a..n}{a,p-z}{a,p-z} | tr ' ' '\n' | grep -v "oo" | sort
