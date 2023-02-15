@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%X\n" "$DECIMAL" | tr '[:lower:]' '[:upper:]'
+echo "16i$DECIMAL" | dc | tr '[:lower:]' '[:upper:]'
